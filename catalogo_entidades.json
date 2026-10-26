@@ -1,0 +1,162 @@
+[
+ {
+  "cve": "01",
+  "nombre": "Aguascalientes",
+  "municipios": 11
+ },
+ {
+  "cve": "02",
+  "nombre": "Baja California",
+  "municipios": 7
+ },
+ {
+  "cve": "03",
+  "nombre": "Baja California Sur",
+  "municipios": 5
+ },
+ {
+  "cve": "04",
+  "nombre": "Campeche",
+  "municipios": 13
+ },
+ {
+  "cve": "05",
+  "nombre": "Coahuila de Zaragoza",
+  "municipios": 38
+ },
+ {
+  "cve": "06",
+  "nombre": "Colima",
+  "municipios": 10
+ },
+ {
+  "cve": "07",
+  "nombre": "Chiapas",
+  "municipios": 124
+ },
+ {
+  "cve": "08",
+  "nombre": "Chihuahua",
+  "municipios": 67
+ },
+ {
+  "cve": "09",
+  "nombre": "Ciudad de México",
+  "municipios": 16
+ },
+ {
+  "cve": "10",
+  "nombre": "Durango",
+  "municipios": 39
+ },
+ {
+  "cve": "11",
+  "nombre": "Guanajuato",
+  "municipios": 46
+ },
+ {
+  "cve": "12",
+  "nombre": "Guerrero",
+  "municipios": 85
+ },
+ {
+  "cve": "13",
+  "nombre": "Hidalgo",
+  "municipios": 84
+ },
+ {
+  "cve": "14",
+  "nombre": "Jalisco",
+  "municipios": 125
+ },
+ {
+  "cve": "15",
+  "nombre": "México",
+  "municipios": 125
+ },
+ {
+  "cve": "16",
+  "nombre": "Michoacán de Ocampo",
+  "municipios": 113
+ },
+ {
+  "cve": "17",
+  "nombre": "Morelos",
+  "municipios": 36
+ },
+ {
+  "cve": "18",
+  "nombre": "Nayarit",
+  "municipios": 20
+ },
+ {
+  "cve": "19",
+  "nombre": "Nuevo León",
+  "municipios": 51
+ },
+ {
+  "cve": "20",
+  "nombre": "Oaxaca",
+  "municipios": 570
+ },
+ {
+  "cve": "21",
+  "nombre": "Puebla",
+  "municipios": 217
+ },
+ {
+  "cve": "22",
+  "nombre": "Querétaro",
+  "municipios": 18
+ },
+ {
+  "cve": "23",
+  "nombre": "Quintana Roo",
+  "municipios": 11
+ },
+ {
+  "cve": "24",
+  "nombre": "San Luis Potosí",
+  "municipios": 58
+ },
+ {
+  "cve": "25",
+  "nombre": "Sinaloa",
+  "municipios": 18
+ },
+ {
+  "cve": "26",
+  "nombre": "Sonora",
+  "municipios": 72
+ },
+ {
+  "cve": "27",
+  "nombre": "Tabasco",
+  "municipios": 17
+ },
+ {
+  "cve": "28",
+  "nombre": "Tamaulipas",
+  "municipios": 43
+ },
+ {
+  "cve": "29",
+  "nombre": "Tlaxcala",
+  "municipios": 60
+ },
+ {
+  "cve": "30",
+  "nombre": "Veracruz de Ignacio de la Llave",
+  "municipios": 212
+ },
+ {
+  "cve": "31",
+  "nombre": "Yucatán",
+  "municipios": 106
+ },
+ {
+  "cve": "32",
+  "nombre": "Zacatecas",
+  "municipios": 58
+ }
+]
